@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-HTML/CSS/JS-ff69b4?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/Backend-Django-DodgerBlue?style=for-the-badge&logo=django">
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql">
   <img src="https://img.shields.io/badge/Environment-.env-darkgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/API-OpenAI-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/ImageProcessing-Pillow-lightgrey?style=for-the-badge">
